@@ -169,8 +169,8 @@ Las imágenes se guardan en formato PNG en `imagenes_bacanas/BH_images/`:
 ## Autor
 
 **David Alejandro Pérez Múnera**  
-Estudiante de Astronomía Moderna  
-Universidad [Institution Name]
+Estudiante del pregrado de Astronomía
+Universidad de Antioquia 
 
 ---
 
